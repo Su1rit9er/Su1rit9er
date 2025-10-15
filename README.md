@@ -5,7 +5,7 @@
 - 💡 **Python** isn’t just a language – it’s how I turn ideas into reality
 - 🧠 **Yandex Lyceum** student
 - 🤖 I'm deeply involved in **ML** now
-- 👾 C# and Unity dev in the past
+- 👾 **C#** and **Unity** dev in the past
 
 ---
 
